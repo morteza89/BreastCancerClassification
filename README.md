@@ -6,7 +6,7 @@ The dataset is available at: https://archive.ics.uci.edu/ml/datasets/Breast+Canc
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 30 features are extracted from each image.
 Class distribution: 357 benign, 212 malignant
-### This algorithm is run on kaggle and made 97% accuracy on the testset.
+### This algorithm is run on kaggle and made 97.4% accuracy on the testset, and val_loss: 2.4854.
 ### Here is the link to the kaggle:
 ### https://www.kaggle.com/mortezaheidari/breast-cancer-classification-with-cnn/edit
 ## SOME NOTES:
