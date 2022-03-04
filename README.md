@@ -8,7 +8,7 @@ https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 Class distribution: 357 benign, 212 malignant
 ### This algorithm is run on kaggle and made 97.4% accuracy on the testset, and val_loss: 2.4854.
 ### Here is the link to the kaggle:
-### https://www.kaggle.com/mortezaheidari/breast-cancer-classification-with-cnn/edit
+### https://www.kaggle.com/mortezaheidari/breast-cancer-classification-with-cnn
 ## SOME NOTES:
 ### Since input is vector of features: Im Using L1 regularization of factor 0.01 applied to the kernel matrix, the reason is that L1 is acting like feature optimization, and sparsing the data.
 ### Max pooling is also so effective to provide robust results.
