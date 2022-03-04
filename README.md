@@ -1,7 +1,7 @@
 # BreastCancer classification with CNN
 I will using the Breast Cancer Wisconsin dataset to train a
 model to predict if a patient has cancer or not ( benign vs malignant)¶
-Im going to define a CNN based algorithm to receive the vector of features which is available in this dataset as input to predict the results.
+Im going to define a CNN based algorithm to receive the vector of features which is available in this dataset as input to classify if each case is malignant or benign.
 The dataset is available at: https://archive.ics.uci.edu/ml/datasets/Breast+Cancer+Wisconsin+%28Diagnostic%29
 https://www.kaggle.com/uciml/breast-cancer-wisconsin-data
 30 features are extracted from each image.
